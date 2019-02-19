@@ -1,0 +1,9 @@
+# folders
+.idea/
+venv/
+
+#files
+hidden.py
+oauth.py
+twitter2.py
+twurl.py
